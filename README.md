@@ -1,0 +1,1 @@
+The use of machine learning in credit card applications has simplified the process of determining qualified candidates. Before a credit card can be issued, a prospective customer must submit their information to a financial institution. The Credit card data set is analyzed using an understanding of the information submitted by people applying for credit cards.
